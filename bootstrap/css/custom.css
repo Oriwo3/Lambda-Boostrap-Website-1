@@ -1,0 +1,57 @@
+.sectionone{
+    background-image: url("../../resources/nasa.jpg");
+    background-size: cover;
+    height: 100vh;
+    padding-top: 20px;
+    font-family: "regatto";
+}
+.topdiv{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+}
+.a, .b{
+    padding-bottom: 50px;
+}
+.c{
+    font-size: 50px;
+    font-weight: bolder;
+    padding-top: 30px;
+}
+.d{
+    font-style: italic;
+    font-family: BlinkMacSystemFont;
+}
+
+.e{
+    font-style: italic;
+    font-family: -apple-system;
+    padding-left: 40%;
+}
+.f{
+    width: 100%;
+    height: 30vh;
+}
+.g{
+    font-style: italic;
+    font-family: -apple-system;
+}
+.myspan{
+    margin-left: 49.8%;
+    margin-right: 49.8%;
+    height: 20vh;
+    border-right: 2px solid #adb5bd;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.aboutsection{
+    padding-bottom: 50px;
+}
+.contact{
+    background-color: grey;
+    height: 100vh;
+    padding-top: 50px;
+}
